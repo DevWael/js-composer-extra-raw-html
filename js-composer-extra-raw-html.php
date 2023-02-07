@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Custom Raw HTML Block
+ * Plugin Name: Extra Raw HTML Block
  * Plugin URI: https://github.com/DevWael/js-composer-extra-raw-html
  * Description: Create another RAW block
  * Version: 1.0
