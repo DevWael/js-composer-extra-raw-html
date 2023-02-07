@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Custom Raw HTML Block
- * Plugin URI: http://wpbakery.com
+ * Plugin URI: https://github.com/DevWael/js-composer-extra-raw-html
  * Description: Create another RAW block
  * Version: 1.0
  * Author: Ahmad Wael
- * Author URI: http://bbioon.com
+ * Author URI: https://www.bbioon.com
  * Text Domain: crhb
  */
 
